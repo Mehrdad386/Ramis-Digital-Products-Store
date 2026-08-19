@@ -1,0 +1,71 @@
+**MASTER PROMPT**
+
+Create a premium 3D commercial illustration representing the category **"[CATEGORY NAME]"**.
+
+The illustration must visually communicate the meaning of the category through a carefully arranged collection of relevant objects, symbols and professional elements. Use the same visual language as a high-end modern 3D website category icon.
+
+**Visual Style:**
+
+- Premium glossy 3D illustration
+- Modern soft-clay / polished 3D aesthetic
+- Highly detailed and professionally modeled objects
+- Smooth rounded edges
+- Slightly playful but professional appearance
+- Realistic glossy plastic and metallic materials
+- Soft reflections and subtle highlights
+- Strong depth, layering and dimensionality
+- Objects slightly overlapping each other to create a rich composition
+- Main color: **#006660**
+- Secondary colors: dark teal, turquoise, very light cyan/white
+- Accent color: **golden yellow / metallic gold**
+- Use gold only for important accents and small details
+- Clean premium technology/business aesthetic
+- Consistent color harmony throughout the entire illustration
+
+**Composition:**
+Create one cohesive centered composition, similar to a premium 3D category illustration rather than separate unrelated objects.
+
+Use several recognizable objects related specifically to **"[CATEGORY NAME]"**. The main object should be larger and positioned near the center, with supporting objects arranged naturally around it.
+
+Objects should have:
+
+- Rounded 3D geometry
+- Glossy surfaces
+- Subtle metallic details
+- Soft realistic shadows
+- High-quality bevels
+- Strong dimensionality
+- Professional product-rendering quality
+
+**Lighting:**
+Soft studio lighting, large diffused light source, realistic ambient occlusion, subtle contact shadows, beautiful glossy reflections, cinematic product-render lighting.
+
+**Important:**
+The illustration must immediately communicate **"[CATEGORY NAME]"** without requiring any explanation.
+
+Do NOT create a generic icon. Design a rich, detailed 3D composition specifically around the meaning of the category.
+
+**Background / Output:**
+
+- Completely transparent background
+- PNG with alpha channel
+- No floor
+- No wall
+- No gradient background
+- No colored background
+- No frame
+- No border
+- No extra decorative background elements
+- Objects must be isolated cleanly from the background
+- High resolution
+- Sharp edges
+- Website-ready asset
+- Composition centered with enough transparent space around the objects
+
+**Text:**
+Do not add any text, letters, numbers, logos, watermarks or typography unless explicitly requested.
+
+**Reference Style:**
+Match the overall visual quality, proportions, color palette, glossiness, lighting, complexity and 3D rendering style of the provided reference image.
+
+Category: **مدریت پروژه**
