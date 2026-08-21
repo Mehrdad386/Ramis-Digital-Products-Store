@@ -1,0 +1,8 @@
+A 3D isometric featured image for a blog post titled "[عنوان مقاله را اینجا بنویسید]". 
+
+Theme & Visual Style:
+- Main Background: Deep dark teal gradient (hex color #006660) with subtle abstract wave line textures.
+- Color Palette: Dark teal (#006660), gold/yellow accents (#FFCE3A), crisp white, and metallic dark green details.
+- Key Elements: A modern open laptop displaying dynamic 3D icons, floating interface screens, and relevant 3D graphical objects representing [موضوع مقاله را به انگلیسی کوتاه بنویسید، مثلا: WordPress themes or Legal contracts].
+- In the bottom right corner, a sleek rounded yellow button (hex #FFCE3A) with subtle glowing light effect.
+- Lighting & Rendering: Professional studio lighting, soft glowing particles, high-end 3D render, minimalist, clean, highly detailed, 16:9 aspect ratio.
