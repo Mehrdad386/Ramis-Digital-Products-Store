@@ -1,1 +1,0 @@
-after designing all pages and templates in elementor, all JSON files of pages will be placed in this folder
