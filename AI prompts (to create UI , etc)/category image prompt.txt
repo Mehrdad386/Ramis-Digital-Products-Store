@@ -1,71 +1,121 @@
-**MASTER PROMPT**
+# MASTER PROMPT — RAMIS PREMIUM 3D CATEGORY ILLUSTRATION
 
 Create a premium 3D commercial illustration representing the category **"[CATEGORY NAME]"**.
 
-The illustration must visually communicate the meaning of the category through a carefully arranged collection of relevant objects, symbols and professional elements. Use the same visual language as a high-end modern 3D website category icon.
+The illustration must visually communicate the meaning of the category through a carefully arranged collection of relevant objects, symbols and professional elements. Use the same visual language as a high-end modern 3D website category illustration.
 
-**Visual Style:**
+---
 
-- Premium glossy 3D illustration
-- Modern soft-clay / polished 3D aesthetic
-- Highly detailed and professionally modeled objects
-- Smooth rounded edges
-- Slightly playful but professional appearance
-- Realistic glossy plastic and metallic materials
-- Soft reflections and subtle highlights
-- Strong depth, layering and dimensionality
-- Objects slightly overlapping each other to create a rich composition
-- Main color: **#006660**
-- Secondary colors: dark teal, turquoise, very light cyan/white
-- Accent color: **golden yellow / metallic gold**
-- Use gold only for important accents and small details
-- Clean premium technology/business aesthetic
-- Consistent color harmony throughout the entire illustration
+## Visual Style
 
-**Composition:**
-Create one cohesive centered composition, similar to a premium 3D category illustration rather than separate unrelated objects.
+* Premium glossy 3D illustration
+* Modern soft-clay / polished 3D aesthetic
+* Highly detailed and professionally modeled objects
+* Smooth rounded edges
+* Slightly playful but professional appearance
+* Realistic glossy plastic and subtle metallic materials
+* Soft reflections and elegant highlights
+* Strong depth, layering and dimensionality
+* Objects should slightly overlap each other to create a rich and cohesive composition
+* Clean, modern, premium technology and business aesthetic
+* Professional product-rendering quality
+* Consistent visual harmony throughout the entire illustration
 
-Use several recognizable objects related specifically to **"[CATEGORY NAME]"**. The main object should be larger and positioned near the center, with supporting objects arranged naturally around it.
+### Color Palette
+
+Use the RAMIS brand identity as the foundation of the color palette:
+
+* **Primary Color:** Deep teal green `#006660`
+* **Secondary Colors:** Dark teal, turquoise, very light cyan and white
+* **Complementary Accent Color:** Golden yellow / metallic gold
+
+**Important Color Direction:**
+
+Do not make the illustration monochromatic or overly dominated by a single color.
+
+The primary teal color `#006660` should remain the main visual identity, but the composition must also use complementary and supporting colors thoughtfully to create visual richness, contrast and balance.
+
+Use golden yellow / metallic gold for important accents, highlights, controls, details or focal points. Use lighter cyan, white and turquoise where appropriate to prevent the composition from looking too dark, flat or visually dry.
+
+Colors should feel intentionally balanced and harmonious, creating a premium and sophisticated composition rather than a single-color object.
+
+---
+
+## Composition
+
+Create **one cohesive centered composition**, similar to a premium 3D category illustration rather than separate unrelated objects.
+
+Use several recognizable objects related specifically to **"[CATEGORY NAME]"**.
+
+The main object should be larger and positioned near the center, with supporting objects arranged naturally around it.
 
 Objects should have:
 
-- Rounded 3D geometry
-- Glossy surfaces
-- Subtle metallic details
-- Soft realistic shadows
-- High-quality bevels
-- Strong dimensionality
-- Professional product-rendering quality
+* Rounded 3D geometry
+* Glossy surfaces
+* Subtle metallic details
+* High-quality bevels
+* Strong dimensionality
+* Natural object overlap and layering
+* Clear visual hierarchy
 
-**Lighting:**
-Soft studio lighting, large diffused light source, realistic ambient occlusion, subtle contact shadows, beautiful glossy reflections, cinematic product-render lighting.
+The final composition must immediately communicate the meaning of **"[CATEGORY NAME]"** without requiring any explanation.
 
-**Important:**
-The illustration must immediately communicate **"[CATEGORY NAME]"** without requiring any explanation.
+Do NOT create a generic icon. Design a rich, detailed and meaningful 3D composition specifically around the concept of the category.
 
-Do NOT create a generic icon. Design a rich, detailed 3D composition specifically around the meaning of the category.
+---
 
-**Background / Output:**
+## Lighting & Shadow
 
-- Completely transparent background
-- PNG with alpha channel
-- No floor
-- No wall
-- No gradient background
-- No colored background
-- No frame
-- No border
-- No extra decorative background elements
-- Objects must be isolated cleanly from the background
-- High resolution
-- Sharp edges
-- Website-ready asset
-- Composition centered with enough transparent space around the objects
+Use soft premium studio lighting with a large diffused light source.
 
-**Text:**
+Include:
+
+* Realistic ambient occlusion
+* Soft contact shadows between objects
+* Beautiful glossy reflections
+* Subtle cinematic product-render lighting
+* Elegant highlights that define the 3D shapes
+
+Because the illustration will be displayed on a light background, add a **soft, clean and premium ground/contact shadow underneath the composition**.
+
+The shadow should feel natural and refined, helping the objects visually sit within the composition without becoming heavy, dark or distracting. Use soft edges, subtle opacity and realistic diffusion for a polished website-ready appearance.
+
+---
+
+## Background / Output
+
+* Use a clean, solid background color: **`#F8F8FA`**
+* No gradient background
+* No wall or environmental scene
+* No unnecessary decorative background elements
+* No frame
+* No border
+* Keep the background minimal and clean so the illustration remains the visual focus
+* Center the composition with enough comfortable space around the objects
+* High resolution
+* Sharp, clean edges
+* Website-ready asset
+* Professional commercial rendering quality
+
+The composition and its soft shadow should work beautifully against the `#F8F8FA` background and feel naturally integrated into a premium modern website design.
+
+---
+
+## Text
+
 Do not add any text, letters, numbers, logos, watermarks or typography unless explicitly requested.
 
-**Reference Style:**
-Match the overall visual quality, proportions, color palette, glossiness, lighting, complexity and 3D rendering style of the provided reference image.
+---
 
-Category: **مدریت پروژه**
+## Reference Style
+
+Match the overall visual quality, proportions, color harmony, glossiness, lighting, complexity and premium 3D rendering style of the provided reference image.
+
+Maintain consistency across different category illustrations so all generated assets feel like part of the same RAMIS visual system.
+
+---
+
+### Category
+
+**[CATEGORY NAME]**
