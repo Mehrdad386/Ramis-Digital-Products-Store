@@ -1,0 +1,328 @@
+**MASTER PROMPT — RAMIS DIGITAL PRODUCTS HERO SLIDER**
+
+Create a premium, modern Persian RTL promotional hero slider for the Ramis digital products website.
+
+**CATEGORY NAME:** `[CATEGORY NAME]`
+
+The only variable input is the category name above. Everything else must remain visually consistent across all category slides.
+
+---
+
+### CANVAS & COMPOSITION
+
+- Exact canvas size: **1400 × 500 pixels**
+- Ultra-wide horizontal website hero banner
+- Keep the exact same overall composition, proportions, visual hierarchy and spacing across every generated category
+- Professional commercial website design
+- Premium SaaS / digital marketplace aesthetic
+- Clean, sophisticated and highly polished
+- Designed specifically for a Persian RTL website
+- The composition must feel like a real professionally designed website banner, NOT a generic AI illustration
+
+---
+
+### RAMIS BRAND IDENTITY
+
+Use only the Ramis visual identity:
+
+- Primary color: **#006660**
+- Secondary/accent color: **#FFCE3A**
+- Supporting colors: white, very dark teal, subtle gray
+- Dominant background: deep teal / dark turquoise gradient
+- Yellow should be used as a strong accent, not as the dominant background color
+- High contrast between typography and background
+- Elegant use of teal and yellow throughout the composition
+
+Do NOT introduce unrelated brand colors such as purple, pink, red, orange or blue.
+
+---
+
+### LAYOUT
+
+Divide the banner into two clearly balanced visual zones:
+
+**LEFT SIDE — VISUAL PRODUCT SCENE**
+
+Create a sophisticated 3D/isometric product presentation representing the selected category.
+
+The visual scene should include realistic digital-business objects directly related to `[CATEGORY NAME]`.
+
+Examples:
+
+- WordPress themes → website mockups, responsive screens, browser windows, website templates
+- WordPress plugins → plugin dashboard, WordPress interface, plugin cards, puzzle pieces, plugin icon, settings UI
+- Business tools → contracts, forms, checklists, documents, laptop, briefcase, management paperwork
+- Business bundles → organized collection of digital resources, document packs, folders, templates, business kits and multiple downloadable assets
+
+The objects must look like premium digital products displayed in a professional showcase.
+
+Use:
+
+- 3D objects
+- Floating UI cards
+- Responsive website screens
+- Digital documents
+- Soft shadows
+- Subtle reflections
+- Depth
+- Premium studio lighting
+- Slight perspective
+- Clean rounded surfaces
+
+Place the visual elements primarily on the **LEFT 45–50%** of the banner.
+
+---
+
+### RIGHT SIDE — TEXT AREA
+
+Reserve approximately **50–55% of the banner** for Persian RTL typography.
+
+All text must be aligned to the **RIGHT**.
+
+The text hierarchy must be:
+
+1. Small category label
+2. Large main headline
+3. Short supporting description
+4. Feature icons / benefits
+5. Yellow CTA button
+
+Main headline:
+
+**`[CATEGORY NAME]`**
+
+The category name must be the dominant typography element.
+
+Use a large, bold, premium Persian sans-serif style.
+
+The headline should use a strong combination of:
+
+- White
+- \#FFCE3A
+
+Prefer highlighting the most important part of the category name in **#FFCE3A**.
+
+---
+
+### PERSIAN COPY
+
+Automatically generate a short, natural and professional Persian description specifically related to `[CATEGORY NAME]`.
+
+The description should be approximately **1–2 short lines**.
+
+It must clearly explain what this category contains and why it is useful.
+
+Do not use overly promotional or exaggerated language.
+
+For example, for business tools, the meaning should communicate that the category includes things such as:
+
+قراردادها، فرم‌های آماده، فرم‌های مدیریتی، چک‌لیست‌ها، اسناد و ابزارهای کاربردی کسب‌وکار.
+
+The exact wording should be adapted naturally to the selected category.
+
+---
+
+### FEATURE ICONS
+
+Below the description, create **4–5 small feature items**.
+
+Each item should contain:
+
+- Minimal line icon
+- Short Persian label
+- Teal/dark background
+- Yellow or white icon
+- Clean spacing
+
+Automatically choose the feature labels based on `[CATEGORY NAME]`.
+
+Examples:
+
+For WordPress themes:
+
+- طراحی مدرن
+- کاملاً واکنش‌گرا
+- نصب آسان
+- سازگار با وردپرس
+- بهینه و سریع
+
+For WordPress plugins:
+
+- امکانات بیشتر
+- نصب آسان
+- سازگاری بالا
+- امنیت و پشتیبانی
+- به‌روزرسانی
+
+For Business Tools:
+
+- قراردادهای آماده
+- فرم‌های مدیریتی
+- چک‌لیست‌ها
+- اسناد کاربردی
+- دانلود فوری
+
+For Business Bundles:
+
+- مجموعه کامل
+- فایل‌های کاربردی
+- صرفه‌جویی در زمان
+- آماده استفاده
+- دانلود فوری
+
+---
+
+### CTA BUTTON
+
+Place a premium rounded rectangular CTA button underneath the feature items.
+
+Button color:
+
+**#FFCE3A**
+
+Text color:
+
+**#006660**
+
+The CTA text should automatically adapt to the category:
+
+- مشاهده همه قالب‌ها
+- مشاهده همه افزونه‌ها
+- مشاهده همه ابزارها
+- مشاهده همه بسته‌ها
+
+Use a subtle arrow icon.
+
+---
+
+### BACKGROUND DESIGN
+
+Create a rich but minimal deep teal background.
+
+Use subtle decorative elements:
+
+- Large soft yellow circular gradient
+- Thin curved lines
+- Small geometric circles
+- Subtle dotted grid
+- Abstract flowing lines
+- Very subtle wave patterns
+- Soft teal glow
+- Gentle depth and vignette
+
+Decorative elements must remain subtle and must never interfere with the text.
+
+---
+
+### VISUAL STYLE
+
+Overall aesthetic:
+
+**Premium Persian digital marketplace + modern SaaS + 3D product showcase**
+
+Characteristics:
+
+- Elegant
+- Minimal
+- Modern
+- Trustworthy
+- Professional
+- Premium
+- Clean
+- High-end commercial design
+
+Use realistic 3D rendering combined with modern UI design.
+
+Avoid cartoon aesthetics.
+
+Avoid childish illustrations.
+
+Avoid excessive details.
+
+Avoid visual clutter.
+
+Avoid generic stock-photo appearance.
+
+---
+
+### TYPOGRAPHY
+
+Persian typography must be:
+
+- RTL
+- Right aligned
+- Modern
+- Bold
+- Highly readable
+- Clean
+- Professional
+
+Never place the Persian text on the left side.
+
+The main headline must have strong visual dominance.
+
+Ensure adequate spacing between:
+
+headline → description → features → CTA.
+
+---
+
+### CONSISTENCY RULE
+
+This is extremely important:
+
+All category banners must look like they belong to **one unified Ramis slider series**.
+
+When `[CATEGORY NAME]` changes:
+
+- Keep the same canvas size
+- Keep the same left/right layout
+- Keep the same visual hierarchy
+- Keep the same color palette
+- Keep the same typography scale
+- Keep the same CTA style
+- Keep the same icon style
+- Keep the same background language
+- Keep the same lighting
+- Keep the same 3D rendering quality
+- Keep approximately the same amount of visual content
+
+ONLY change:
+
+1. Category name
+2. Supporting Persian description
+3. Left-side objects and UI elements related to that category
+4. Feature labels
+5. CTA wording
+
+The four banners must look like four slides from the **same professional website design system**.
+
+---
+
+### IMPORTANT NEGATIVE INSTRUCTIONS
+
+Do not:
+
+- Change the 1400×500 aspect ratio
+- Put text on the left
+- Use English as the main banner language
+- Use unrelated colors
+- Add unnecessary logos
+- Add people or characters
+- Add photographs
+- Use busy backgrounds
+- Use excessive gradients
+- Make the design look like a social media post
+- Make the visual scene larger than the text area
+- Crop important objects
+- Place important text too close to the edges
+- Use tiny unreadable Persian text
+- Create inconsistent layouts between categories
+
+Final result must look like a professionally art-directed **Ramis homepage hero slider**, optimized for a Persian digital products marketplace.
+
+**OUTPUT: 1400 × 500 pixels, ultra-wide website hero banner.**
+
+
+
+برای "بسته های آماده کسب و کار" تولید کن 
