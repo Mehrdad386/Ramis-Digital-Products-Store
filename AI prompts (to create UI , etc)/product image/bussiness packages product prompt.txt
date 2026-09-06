@@ -1,0 +1,189 @@
+Create a premium 3D product promotional illustration specifically for a BUSINESS PACKAGE / BUSINESS RESOURCE BUNDLE.
+
+The product is a digital collection designed to help a specific business or professional workflow. The package may contain documents, forms, contracts, checklists, tables, spreadsheets, templates, management files, planning documents and other practical business resources.
+
+CANVAS:
+Create a square 1024x1024 composition.
+
+BACKGROUND:
+Use a completely clean, solid #F8F8FA background.
+No gradient.
+No border.
+No frame.
+No vignette.
+No environment.
+No desk.
+No office.
+No scenery.
+No background patterns.
+
+CORE VISUAL CONCEPT:
+The image must immediately communicate:
+“A complete business resource package containing multiple useful documents and tools.”
+
+Create a central premium 3D BUSINESS KIT / RESOURCE BUNDLE.
+
+The main object can be designed as a:
+- Premium document box
+- Business resource case
+- Organized document holder
+- Digital business toolkit
+- Layered business package
+- Rounded 3D folder / archive
+
+The central package should visually contain or be surrounded by multiple business resources such as:
+- Contracts
+- Forms
+- Tables
+- Checklists
+- Documents
+- Spreadsheets
+- Calendars
+- Management sheets
+- Reports
+- Business cards
+- Pens
+- Briefcase elements
+- Organization icons
+- Planning elements
+
+Do not necessarily use all of these.
+Select the elements that create the most attractive and understandable composition.
+
+IMPORTANT — UNDERSTAND THE PRODUCT NAME:
+First analyze the PRODUCT NAME provided at the end.
+
+Determine what type of business, profession, industry or workflow the package is designed for.
+
+Then adapt the visual elements accordingly.
+
+For example:
+- Real estate business package → property documents, house, contract, keys, calculator.
+- Restaurant business package → menu, order sheet, receipt, food-service icons.
+- Construction business package → blueprint, contract, measurement tools, building elements.
+- HR business package → employee forms, user profiles, documents, checklist.
+- Accounting package → calculator, invoices, financial tables, charts.
+- Marketing package → campaign board, charts, social media cards, megaphone.
+- General business package → contracts, forms, tables, checklist, briefcase and documents.
+
+The PRODUCT NAME must control the visual theme.
+
+Do not create generic random business objects if the product name clearly indicates a specific industry.
+
+COMPOSITION:
+Create a compact, centered and visually balanced 3D composition.
+
+Use:
+- Layered documents
+- Floating cards
+- Overlapping 3D objects
+- Rounded UI/document panels
+- Depth and perspective
+- Soft shadows
+- Foreground and background hierarchy
+
+The composition should feel similar to a premium 3D digital-product thumbnail.
+
+STYLE:
+Premium 3D CGI
+Modern animated-movie-inspired 3D aesthetic
+Playful but professional
+Rounded geometry
+Soft bevels
+Smooth surfaces
+Glossy / semi-glossy materials
+Soft ambient occlusion
+Soft studio lighting
+Subtle reflections
+High-quality commercial product render
+Clean and polished
+Visually rich but not overcrowded
+
+The artwork should feel like a premium digital product sold in a professional marketplace.
+
+COLOR SYSTEM:
+Use the PRIMARY COLOR and COMPLEMENTARY COLOR provided at the end.
+
+The PRIMARY COLOR should be the dominant color of the main package and major 3D elements.
+
+The COMPLEMENTARY COLOR should be used for:
+- Secondary objects
+- Highlights
+- Buttons
+- Document headers
+- Small accents
+- Decorative details
+
+Maintain a sophisticated and consistent color hierarchy.
+
+Do not introduce another dominant brand color.
+
+PRODUCT TITLE:
+Place the exact PRODUCT NAME prominently in the lower-middle / foreground area.
+
+Render the title as large, bold, dimensional Persian 3D typography integrated into a rounded 3D plaque or layered object.
+
+Typography must be:
+- Highly readable
+- Bold
+- Modern
+- Rounded
+- Premium
+- Correctly spelled
+- Clearly Persian
+- Visually balanced
+
+IMPORTANT:
+Write the PRODUCT NAME exactly as provided.
+
+Do not translate it.
+Do not shorten it.
+Do not change its spelling.
+Do not add slogans.
+Do not add descriptions.
+Do not add random text.
+
+If the product name contains multiple words, arrange them naturally in the composition while preserving the exact wording.
+
+CATALOG CONSISTENCY:
+This image belongs to a complete collection of BUSINESS PACKAGE products.
+
+Keep consistent across all products:
+- 3D rendering style
+- Lighting
+- Background
+- Typography treatment
+- General composition
+- Quality
+- Level of detail
+- Premium visual language
+
+However, the actual business documents, icons and objects MUST change according to the PRODUCT NAME.
+
+The result should communicate both:
+1. This is a complete business resource package.
+2. What type of business or purpose the specific package is designed for.
+
+DO NOT CREATE:
+- People
+- Characters
+- Photorealistic humans
+- Complex environments
+- Office scenes
+- Random unrelated objects
+- Flat 2D artwork
+- Generic stock imagery
+- Excessive text
+- Unreadable text
+- Decorative elements unrelated to the product
+
+FINAL INPUT:
+
+PRODUCT NAME:
+[PRODUCT NAME]
+
+PRIMARY COLOR:
+[PRIMARY COLOR]
+
+COMPLEMENTARY COLOR:
+[COMPLEMENTARY COLOR]

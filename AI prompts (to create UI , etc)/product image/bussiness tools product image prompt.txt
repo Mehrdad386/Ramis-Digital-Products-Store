@@ -1,0 +1,312 @@
+Create a premium 3D product promotional illustration specifically for a professional BUSINESS TOOL digital product.
+
+This product belongs to a premium collection of ready-to-use business tools, forms, templates, documents, management resources and practical business utilities.
+
+The image must immediately communicate the PURPOSE and FUNCTION of the product.
+
+IMPORTANT:
+First understand the PRODUCT TYPE provided at the end of this prompt.
+Then design the entire visual concept around that PRODUCT TYPE.
+
+The PRODUCT TYPE is the most important creative instruction.
+Do NOT use generic business objects simply because the product belongs to a business collection.
+The main 3D objects, supporting elements, icons, documents, interfaces and visual metaphors must be directly relevant to the PRODUCT TYPE.
+
+For example:
+
+If PRODUCT TYPE is a contract or agreement:
+Use relevant elements such as a professional document, signature area, pen, approval/checkmark, stamp, agreement symbols and document organization.
+
+If PRODUCT TYPE is an inventory or warehouse form:
+Use relevant elements such as inventory tables, product boxes, shelves, stock quantities, barcode labels, inventory indicators, checklists, warehouse-management interface elements and stock-status indicators.
+
+If PRODUCT TYPE is an invoice:
+Use invoice documents, receipt elements, calculator, pricing sections, payment indicators, totals and confirmation symbols.
+
+If PRODUCT TYPE is a checklist:
+Use a checklist, clipboard, completed checkboxes, task indicators, progress elements and a pen.
+
+If PRODUCT TYPE is a management form:
+Use structured input fields, checkboxes, dropdowns, dashboard cards, management panels, settings elements, user-management indicators and organized data sections.
+
+If PRODUCT TYPE is a financial or accounting tool:
+Use relevant financial tables, calculations, charts, payment indicators, monetary symbols and organized accounting documents.
+
+If PRODUCT TYPE is a scheduling or planning tool:
+Use calendars, schedules, timeline elements, task cards, reminders and planning indicators.
+
+If PRODUCT TYPE describes another type of business tool:
+Understand its real-world purpose and create the most appropriate visual elements for that exact product.
+
+DO NOT blindly copy the examples above.
+They are only conceptual references.
+
+The final image must look specifically designed for the given PRODUCT TYPE, not like a generic business illustration with a different title.
+
+---
+
+## VISUAL STYLE
+
+Create a premium modern 3D CGI illustration inspired by high-end animated movie design and polished commercial product visualization.
+
+Use:
+
+* Rounded geometry
+* Soft bevels
+* Smooth surfaces
+* Glossy and semi-glossy materials
+* Friendly but professional proportions
+* Soft ambient occlusion
+* Subtle reflections
+* Realistic soft shadows
+* Premium studio lighting
+* High-quality commercial rendering
+* Clean and sophisticated 3D forms
+* Slightly playful but highly professional appearance
+
+The final result should feel like a premium digital-product thumbnail from a high-end design system.
+
+---
+
+## CANVAS
+
+Exact canvas:
+1024 × 1024 pixels.
+
+Use a square composition.
+
+---
+
+## BACKGROUND
+
+Use a completely clean solid background:
+
+#F8F8FA
+
+No gradient.
+No border.
+No frame.
+No vignette.
+No environment.
+No desk.
+No office.
+No scenery.
+No background pattern.
+No decorative background elements.
+
+The background must remain minimal and clean.
+
+---
+
+## MAIN VISUAL CONCEPT
+
+Create one strong central 3D representation of the BUSINESS TOOL.
+
+The main object must be determined by the PRODUCT TYPE.
+
+Depending on the product, the main object may be:
+
+* A floating professional document
+* A structured business form
+* A clipboard
+* A spreadsheet
+* A dashboard
+* A management interface
+* A folder
+* A document stack
+* A business chart
+* A physical business object
+* A digital interface
+* A combination of several directly related objects
+
+The main object must be visually dominant.
+
+Surround it with a small number of complementary 3D elements that reinforce the exact purpose of the product.
+
+Every supporting object must have a clear relationship with the PRODUCT TYPE.
+
+Do not add random business-related objects just to make the image look detailed.
+
+---
+
+## COMPOSITION
+
+Use a compact centered composition suitable for a premium digital-product catalog.
+
+Create depth using:
+
+* Layered objects
+* Overlapping cards
+* Floating elements
+* Slight perspective
+* Foreground/background hierarchy
+* Soft shadows
+* Controlled object overlap
+
+Keep the composition rich enough to communicate the product instantly, but never overcrowded.
+
+The main product concept must remain visually obvious within one second.
+
+Leave enough breathing room around the composition.
+
+---
+
+## TYPOGRAPHY
+
+Place the exact PRODUCT NAME prominently in the lower-middle / foreground area.
+
+Integrate the product name into a premium rounded 3D plaque, badge, card or layered dimensional object.
+
+Typography requirements:
+
+* Large
+* Bold
+* Highly readable
+* Modern
+* Rounded
+* Premium
+* Clearly Persian when the product name is Persian
+* Correctly spelled
+* Proper RTL direction
+* Visually balanced
+* Integrated naturally into the 3D composition
+
+IMPORTANT:
+
+Write the PRODUCT NAME EXACTLY as provided.
+
+Do not translate it.
+Do not shorten it.
+Do not rewrite it.
+Do not correct its spelling.
+Do not add a slogan.
+Do not add a description.
+Do not add random words.
+Do not generate additional promotional text.
+
+The product name must be the only prominent textual element.
+
+---
+
+## COLOR SYSTEM
+
+Use the PRIMARY COLOR as the dominant brand color throughout the main 3D object and major visual surfaces.
+
+Use the COMPLEMENTARY COLOR as the secondary accent color for:
+
+* Highlights
+* Buttons
+* Icons
+* Small details
+* Status indicators
+* Important visual elements
+* Typography accents
+* Decorative 3D details
+
+Maintain a sophisticated color hierarchy.
+
+Do not introduce another dominant color.
+
+Neutral white, soft gray and subtle material tones may be used where necessary to create contrast and improve readability, but the PRIMARY COLOR and COMPLEMENTARY COLOR must remain visually dominant.
+
+---
+
+## BUSINESS TOOL LOGIC
+
+The illustration must visually explain what the product actually does.
+
+Think in terms of:
+"What would I see if I opened or used this business tool?"
+
+Then convert that concept into a premium 3D visual composition.
+
+For example, an inventory-management product should visually communicate:
+inventory + products + quantities + organization + stock control.
+
+A contract should communicate:
+document + agreement + signature + approval.
+
+An invoice should communicate:
+invoice + prices + calculation + payment.
+
+A checklist should communicate:
+tasks + checkboxes + completion + organization.
+
+The visual metaphor must be specific, functional and immediately understandable.
+
+---
+
+## WORDPRESS RULE
+
+Do NOT force WordPress elements into the artwork.
+
+If the PRODUCT TYPE itself is specifically related to WordPress, a subtle WordPress visual reference may be integrated naturally.
+
+If the product is a general business tool, form, document, management resource or physical business workflow, DO NOT add a WordPress logo or WordPress-related object.
+
+The BUSINESS TOOL must always remain the primary subject.
+
+---
+
+## CATALOG CONSISTENCY
+
+This image belongs to a larger collection of BUSINESS TOOL products.
+
+Maintain a consistent visual identity across the entire collection:
+
+* Same 3D rendering quality
+* Same background
+* Same lighting language
+* Same premium material quality
+* Same general composition
+* Same typography treatment
+* Same visual hierarchy
+* Same level of detail
+* Same polished commercial-product appearance
+
+However, the actual objects MUST change according to the PRODUCT TYPE.
+
+Never create the same generic composition repeatedly and simply replace the title.
+
+Each product must have its own visual identity while still clearly belonging to the same collection.
+
+---
+
+## DO NOT CREATE
+
+Do not create:
+
+* People
+* Human characters
+* Human portraits
+* Photorealistic humans
+* Office scenes
+* Complex environments
+* Desks
+* Rooms
+* Scenery
+* Random unrelated objects
+* Generic stock imagery
+* Flat 2D artwork
+* Excessive text
+* Unreadable typography
+* Decorative objects unrelated to the product
+* Generic icons that do not communicate the product
+* Unnecessary WordPress elements
+* Excessive visual clutter
+
+The final result must look like a premium commercial 3D product illustration specifically designed for the exact business tool.
+
+FINAL INPUT:
+
+PRODUCT NAME:
+[PRODUCT NAME]
+
+PRIMARY COLOR:
+[PRIMARY COLOR]
+
+COMPLEMENTARY COLOR:
+[COMPLEMENTARY COLOR]
+
+PRODUCT TYPE:
+[PRODUCT TYPE]

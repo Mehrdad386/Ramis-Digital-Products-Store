@@ -1,0 +1,74 @@
+Create a premium 3D product promotional illustration specifically for a WordPress theme/template product.
+
+The image must have a clean, modern, playful 3D cartoon aesthetic inspired by high-end animated movie character design: rounded shapes, smooth surfaces, soft bevels, subtle glossy materials, soft realistic shadows, polished 3D UI elements, friendly proportions, and a professional commercial-product-render quality.
+
+COMPOSITION:
+Create a centered, square 1024x1024 product artwork.
+
+The main visual must represent a modern WordPress website/theme:
+- A large floating browser window or website interface as the central object.
+- The website should look like a polished professional WordPress theme.
+- Include a simplified website homepage inside the browser with a hero section, navigation, content cards, image placeholders, buttons and small UI elements.
+- Add a few floating interface panels around the main browser to create depth and visual interest.
+- Include subtle WordPress-related visual elements such as the WordPress “W” symbol, website widgets, UI panels, design tools, content blocks or theme customization elements.
+- The composition should feel like a physical 3D object made from layered cards and rounded UI components.
+- Use depth, overlapping elements, floating cards and soft shadows, but keep the composition clean and uncluttered.
+- The product should immediately communicate “WordPress Theme / Website Template”.
+
+STYLE:
+- Premium 3D illustration
+- Minimal but visually rich
+- Playful animated-movie-inspired 3D aesthetic
+- Rounded, soft and friendly geometry
+- Smooth plastic / clay-like materials
+- Subtle glossy highlights
+- Soft ambient occlusion
+- Soft studio lighting
+- Gentle shadows
+- High-quality commercial product visualization
+- No photorealistic people
+- No complex background scenery
+- No unnecessary decorative objects
+- No excessive detail
+
+BRAND COLORS:
+Use the provided primary and complementary colors as the dominant visual identity throughout the entire artwork.
+The primary color should be used for the main UI elements, browser frame, major 3D surfaces and visual accents.
+The complementary color should be used strategically for buttons, highlights, secondary surfaces, decorative accents and important visual details.
+Maintain a balanced color hierarchy and do not introduce random dominant colors.
+
+BACKGROUND:
+Use an absolutely clean, solid #F8F8FA background.
+The background must be completely plain and seamless.
+No gradient background.
+No border.
+No frame.
+No vignette.
+No colored edges.
+No room, desk, environment or scenery.
+The artwork must extend naturally to all four edges of the square canvas.
+
+TYPOGRAPHY:
+Place the product name prominently in the lower-middle / foreground area of the composition as a large dimensional 3D Persian title.
+The title should feel physically integrated into the artwork, like a premium 3D sign or floating rounded plaque.
+Use bold, modern Persian typography with excellent readability.
+The product name must be perfectly legible and spelled exactly as provided.
+Do not add any extra words, subtitles, slogans or random text.
+The product name is the visual focal point together with the website mockup.
+
+The overall composition should resemble a premium digital-product thumbnail for a professional WordPress marketplace: clean, recognizable, colorful, memorable and consistent across a complete product catalog.
+
+IMPORTANT:
+Keep the overall composition and visual language consistent between different products.
+Only the brand colors and product name should change between generations.
+Do not redesign the entire composition based on the product name.
+Do not add unrelated objects.
+
+PRIMARY COLOR:
+[PRIMARY_COLOR]
+
+COMPLEMENTARY COLOR:
+[COMPLEMENTARY_COLOR]
+
+PRODUCT NAME:
+[PRODUCT_NAME]

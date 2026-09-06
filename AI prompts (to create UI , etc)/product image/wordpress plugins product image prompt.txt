@@ -1,0 +1,164 @@
+Create a premium 3D product promotional illustration specifically for a WordPress plugin product.
+
+The artwork must have a polished, modern, playful 3D CGI aesthetic inspired by high-end animated movie design: rounded geometry, soft bevels, smooth surfaces, glossy plastic-like materials, friendly proportions, subtle reflections, soft ambient occlusion and professional studio lighting.
+
+CANVAS:
+Create a square 1024x1024 composition.
+
+BACKGROUND:
+Use a completely clean, solid #F8F8FA background.
+The background must be seamless and minimal.
+No border.
+No frame.
+No gradient.
+No vignette.
+No environment.
+No desk.
+No room.
+No scenery.
+No decorative background patterns.
+
+CORE CONCEPT:
+The image represents a WordPress PLUGIN, not a WordPress theme.
+
+The composition should visually communicate the functionality and purpose of the specific plugin.
+
+IMPORTANT:
+First analyze the PRODUCT NAME provided at the end of this prompt.
+Understand what the plugin does and identify its main visual concept.
+
+Then create the 3D illustration around that concept.
+
+The visual elements MUST be directly related to the plugin's functionality.
+
+Examples:
+- Banking / payment security plugin → bank building, payment card, shield, lock, secure payment interface, verification check.
+- SMS / messaging plugin → smartphone, message bubbles, SMS notifications, chat icons, notification badges.
+- Form builder plugin → form fields, input boxes, checkboxes, buttons, cursor, form panels.
+- SEO plugin → search bar, magnifying glass, ranking graph, search results, analytics.
+- Backup plugin → cloud storage, database, backup arrows, hard drive, restore symbol.
+- WooCommerce plugin → shopping cart, products, store, payment elements, order panels.
+- Membership plugin → user profile, users, membership card, lock, account interface.
+- Analytics plugin → charts, graphs, dashboard, statistics cards.
+- Security plugin → shield, lock, fingerprint, warning protection elements.
+
+Do NOT use generic random objects.
+Every major object must have a clear conceptual relationship with the plugin.
+
+PLUGIN VISUAL LANGUAGE:
+Create a central 3D composition made from:
+- A stylized plugin container / rounded toolbox / layered UI cards.
+- A central hero object representing the plugin's main functionality.
+- Several smaller floating UI elements related to the plugin.
+- A recognizable WordPress “W” symbol integrated naturally into the composition.
+- A subtle puzzle-piece/plugin symbol somewhere in the composition.
+- Rounded interface cards, switches, buttons, badges, icons and small widgets where appropriate.
+
+The plugin should feel like a physical premium 3D object rather than a flat screenshot.
+
+COMPOSITION:
+Use the same general visual language across the entire WordPress plugin product category.
+
+Create depth using:
+- Overlapping 3D objects
+- Floating cards
+- Layered panels
+- Soft shadows
+- Different object sizes
+- Slight perspective
+- Foreground and background hierarchy
+
+Keep the composition visually rich but clean.
+Do not overcrowd the image.
+
+PRODUCT NAME:
+Display the exact product name prominently in the lower-middle / foreground area.
+
+The product name must be rendered as large, bold, dimensional Persian 3D typography integrated into a rounded 3D plaque or layered object.
+
+The typography must be:
+- Highly readable
+- Bold
+- Modern
+- Rounded
+- Premium
+- Clearly Persian
+- Correctly spelled
+- Centered and visually balanced
+
+IMPORTANT:
+Use the PRODUCT NAME exactly as provided.
+Do not translate it.
+Do not shorten it.
+Do not change its spelling.
+Do not invent additional words.
+Do not add slogans, descriptions or random text.
+
+COLOR SYSTEM:
+Use the PRIMARY COLOR and COMPLEMENTARY COLOR provided at the end as the dominant brand colors.
+
+The PRIMARY COLOR should dominate the major 3D surfaces and hero elements.
+
+The COMPLEMENTARY COLOR should be used for highlights, secondary objects, buttons, accents, outlines and important visual details.
+
+Maintain a sophisticated color hierarchy.
+Do not introduce another dominant brand color.
+
+The color palette should feel cohesive, premium and recognizable.
+
+STYLE:
+Premium 3D CGI
+High-quality commercial product render
+Modern animated-movie-inspired 3D aesthetic
+Soft rounded shapes
+Glossy materials
+Smooth bevels
+Soft studio lighting
+Subtle reflections
+Soft realistic shadows
+Clean geometry
+Professional digital marketplace artwork
+Playful but professional
+Minimal but visually distinctive
+
+Do not create:
+- Photorealistic people
+- Characters
+- Complex environments
+- Realistic office scenes
+- Excessive text
+- Random objects
+- Flat 2D illustrations
+- Generic stock-image appearance
+- Unrelated decorative elements
+
+CATALOG CONSISTENCY:
+This artwork belongs to a larger collection of WordPress plugin products.
+
+Maintain a consistent:
+- 3D rendering style
+- Lighting style
+- Typography treatment
+- Composition structure
+- Background
+- Level of detail
+- Visual quality
+
+However, the actual objects and visual concept must change according to the PRODUCT NAME.
+
+The plugin's functionality should always be the main source of inspiration for the objects.
+
+The final image should immediately communicate:
+“Premium WordPress Plugin”
+while also making the specific plugin's purpose visually understandable.
+
+FINAL PARAMETERS:
+
+PRODUCT NAME:
+[PRODUCT NAME]
+
+PRIMARY COLOR:
+[PRIMARY COLOR]
+
+COMPLEMENTARY COLOR:
+[COMPLEMENTARY COLOR]
